@@ -1,6 +1,6 @@
 'use strict';
 
-var IndexModel = require('../models/index');
+var IndexModel = require('../models/videos');
 
 
 module.exports = function (router) {
@@ -10,7 +10,7 @@ module.exports = function (router) {
     router.get('/', function (req, res) {
         
         
-        res.render('index', model);
+        res.render('videos', model);
         
         
     });

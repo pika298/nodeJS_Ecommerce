@@ -1,0 +1,34 @@
+{>"layouts/master" /}
+{<title}
+  Videos!
+{/title}
+{<body}
+    
+    <div class="clearfix" style="margin-bottom:20px;"></div>
+
+    <div class="container">
+    <!-- End Slide Show -->
+      <div class="row marketing">
+      	<h1 class="text-left">OUR VIDEOS THAT WE OFFER</h1>          	
+      	<h4 class="text-left" style="color:#c6c6c6;">ALL VIDEOS INCLUDE THE FULL SPECIFICATIONS</h4>
+
+
+    <div class="clearfix" style="margin-bottom:20px;"></div>
+
+          <div class="col-md-2 col-sm-2 col-xs-12 text-left">
+            <img src="images/thumb140.jpg" alt="marketing01" class="img-circle">
+          </div>
+          <div class="col-md-6 col-sm-6 col-xs-12 text-left">
+            <h2>NODEJS SHOPPING CART TUTORIAL WITH EXPRESS AND KRAKENJS</h2>
+            <p>This video series walks you through building an ExpressJS application with the KrakenJS framework.</p>
+            <p style="color:#c6c6c6;">DATE PUBLISHED: 22 OCT 2016 | TAGS: NODEJS, KRAKENJS, MVC</p>
+          </div>
+          <div class="col-md-4 col-sm-4 col-xs-12">
+            <p style="margin-bottom:20px;font-size:70px;">$4</p>
+            <a href="#" class="btn btn-lg btn-success btn-block" style="margin-bottom:10px;">ADD TO CART</a>
+            <a href="#" class="btn btn-lg btn-info btn-block">VIEW VIDEO PAGE</a>
+          </div>
+      </div>
+    </div>
+      
+{/body}

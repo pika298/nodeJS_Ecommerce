@@ -8,7 +8,7 @@
     "i18n": "i18n",
     "componentPackager": "bower",
     "cssModule": "less",
-    "jsModule": "requirejs",
+    "jsModule": false,
     "useJson": null
   }
 }
